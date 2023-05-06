@@ -8,7 +8,7 @@
                 <a href="contacto.php">Contact</a>
             </nav>
         </div>
-        <p class="copyright">All Rights Reserved <?php echo date('Y'); ?> &copy;</p>
+        <p class="copyright"> Jorge Trespalacios. All Rights Reserved <?php echo date('Y'); ?> &copy;</p>
 </footer>
 
     

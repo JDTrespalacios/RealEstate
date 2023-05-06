@@ -1,0 +1,19 @@
+{
+    "name": "jorg3/realestate",
+    "description": "Adding OOP to the project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "JDTrespalacios",
+            "email": "jorg3pro@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./classes"
+        }
+    }
+}

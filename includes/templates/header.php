@@ -7,8 +7,6 @@
 
     $auth = $_SESSION['login'] ?? false;
 
-
-
 ?>
 
 
