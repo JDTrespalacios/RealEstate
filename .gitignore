@@ -1,1 +1,8 @@
 /vendor/
+/src/
+/.vscode/
+/node_modules/
+gulpfile.js
+package.json
+package-lock.json
+.DS.Store
